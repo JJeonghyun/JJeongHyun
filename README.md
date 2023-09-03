@@ -54,6 +54,7 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&link=https://developerjjh.tistory.com/)](https://developerjjh.tistory.com/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=mailto:rlatngus1691@naver.com)](https://www.instagram.com/jhninano/)
 [![Notion](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=mailto:kimsh1691@gmail.com)](https://faithful-robe-ebf.notion.site/Portfolio-6015e8c66c534d97b482722d8c6ef96an)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C20?style=flat-square&logo=linkedin&logoColor=white&link=mailto:kimsh1691@gmail.com)](https://www.linkedin.com/in/정현-장-8807a4260)
 
 </div>
 
