@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![JJeonghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJeonghyun&include_all_commits=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/JJeonghyun/github-readme-stats)
+[![JJeonghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJeonghyun&include_all_commits=false&theme=dracula&hide_border=true&count_private=true)](https://github.com/JJeonghyun/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJeonghyun&hide_progress=true)
 
 </div>
@@ -29,22 +29,16 @@
 <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/>
-
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/NextJS-000000?style=flat&logo=Nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazonEC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/remix-000000?style=flat&logo=remix&logoColor=white"/>
 
 ### :wrench:Tools
 
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/trello-0052CC?style=flat&logo=trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/googlesheets-34A853?style=flat&logo=googlesheets&logoColor=white"/>
 <img src="https://img.shields.io/badge/filezilla-BF0000?style=flat&logo=filezilla&logoColor=white"/>
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
