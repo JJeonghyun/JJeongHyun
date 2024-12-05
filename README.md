@@ -18,7 +18,7 @@
 
 ## 🛠 Currently learning Skills
 
-### :books: BakcEnd
+### :books: BackEnd
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
